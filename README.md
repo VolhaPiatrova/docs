@@ -4,4 +4,6 @@ https://docs.google.com/spreadsheets/d/1N8dj72mdRdvMCy_MihnATcAPWnuS53EfnD10KwU_
 2 Тест-кейсы для Registration and Authorization, Product Catalog  
 https://app.qase.io/project/G10?author=325   
 Тест-кейсы для Registration and Authorization, Product Catalog на github
-https://github.com/OlgaPetrova17/docs/blob/main/TestCasesRegistrationProductCatalog.pdf
+https://github.com/OlgaPetrova17/docs/blob/main/TestCasesRegistrationProductCatalog.pdf  
+3 Отчёты о дефектах (Registration and Authorization, Product Catalog) из YouTrack  
+https://github.com/OlgaPetrova17/docs/commit/26196f8d4ac644426711c37c97e9a2de3619b388
