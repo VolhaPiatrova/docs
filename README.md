@@ -6,4 +6,6 @@ https://app.qase.io/project/G10?author=325
 Тест-кейсы для Registration and Authorization, Product Catalog на github
 https://github.com/OlgaPetrova17/docs/blob/main/TestCasesRegistrationProductCatalog.pdf  
 3 Отчёты о дефектах (Registration and Authorization, Product Catalog) из YouTrack  
-https://github.com/OlgaPetrova17/docs/commit/26196f8d4ac644426711c37c97e9a2de3619b388
+https://github.com/OlgaPetrova17/docs/commit/26196f8d4ac644426711c37c97e9a2de3619b388  
+Результаты тестового прогона из QASE  
+https://github.com/OlgaPetrova17/docs/blob/main/G10-Test%2Brun%2BRegistraion%2B2025_05_03.pdf
